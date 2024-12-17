@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Pum/ML_AI/Udemy/Legion/MLFlow/mlruns/0/5e559d079dbc498c88b7df0000906173/artifacts
+end_time: 1734443781739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5e559d079dbc498c88b7df0000906173
+run_name: fearless-zebra-872
+run_uuid: 5e559d079dbc498c88b7df0000906173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734443778490
+status: 3
+tags: []
+user_id: uttap

@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734443680190
+current_stage: None
+description: null
+last_updated_timestamp: 1734443680190
+name: ElasticnetWineModel
+run_id: 0c0f185e321d4f4d970ebb3951e7a8b2
+run_link: null
+source: file:///C:/Pum/ML_AI/Udemy/Legion/MLFlow/mlruns/0/0c0f185e321d4f4d970ebb3951e7a8b2/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Pum/ML_AI/Udemy/Legion/MLFlow/mlruns/0/0c0f185e321d4f4d970ebb3951e7a8b2/artifacts/model
+user_id: null
+version: 1
